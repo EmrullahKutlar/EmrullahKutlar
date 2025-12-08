@@ -3,7 +3,7 @@
 
 - **Vue.js** **React.js**
 
-- 📫 How to reach me **emrullah.ktlr@gmail.com**
+- 📫 How to reach me **emrullah.kularr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
